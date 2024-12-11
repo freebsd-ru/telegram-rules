@@ -3,3 +3,13 @@ KDE
 freebsd
 https
 ru
+Ctrl
+backticks
+bsd
+cher
+html
+http
+ipfw
+nc
+termbin
+txt
